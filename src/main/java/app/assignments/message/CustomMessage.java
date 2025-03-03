@@ -16,9 +16,6 @@
 
 package app.assignments.message;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class CustomMessage implements Message {
 
     private String sender;
